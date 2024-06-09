@@ -5,7 +5,7 @@
 
 ## How to Play "Alien Coin Collector"
 
-"Alien Coin Collector" is a web-based game that you can enjoy directly in your browser or download to play on your computer. Follow the link in the description to play online, or if you prefer to play offline, download the game and run it with an IDE that supports JavaScript.
+"Alien Coin Collector" is a web-based game that you can enjoy directly in your browser or download to play on your computer. Follow this [link](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dabuar98/alien-coin-collector/main/index.html) to play online, or if you prefer to play offline, download the game and run it with an IDE that supports JavaScript.
 
 ### Controls:
 - **Move Right**: Press the **D** key.
